@@ -49,7 +49,7 @@ class ChildrenBook extends Book{
 public class Main {
     public static void main(String[] args) {
         
-        ChildrenBook cb[]=new ChildrenBook[3];
+        product cb[]=new ChildrenBook[3];
         cb[0]=new ChildrenBook(50);
         cb[1]=new ChildrenBook(70);
         cb[2]=new ChildrenBook(60);
